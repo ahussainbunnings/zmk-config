@@ -25,7 +25,7 @@
         &kp RALT       &kp H       &kp J       &kp K       &kp L       &kp SEMI    &kp SQT
 
         &kp LSHFT      &mt LCTRL Z &kp X       &kp C       &kp V       &kp B       &kp LEFT
-        &kp RIGHT      &kp N       &kp M       &kp COMMA   &kp DOT     &mt RCTRL FSLH &kp RSHFT
+        &kp RIGHT      &kp M       &kp N       &kp COMMA   &kp DOT     &mt RCTRL FSLH &kp RSHFT
 
         &kp GRAVE      &kp DQT     &kp CARET   &kp LEFT    &kp RIGHT   &kp LALT    &kp LGUI    &lt 1 SPACE
         &lt 2 RET        &kp RGUI    &kp RALT    &kp DEL     &kp UP      &kp DOWN    &kp LBKT    &kp RBKT
